@@ -49,5 +49,5 @@ metin="10"
 
 ## şimdiye kadar öğrendiklerimize göre
 print(a*metin) ## sonuç olarak 50 beklemekteyiz. Fakat burada metin değişkeninin değeri string olduğu için sonuç 1010101010 olarak dönecektir
-print(a*int(metin)) ## kodumuzu bu şekilde yazdığımızda sonuç olarak 50 dönecektir. Çünkü metin değerini int veri tipine dönüştümüş olduk
+print(a*int(metin)) ## kodumuzu bu şekilde yazdığımızda sonuç olarak 50 dönecektir. Çünkü metin değerini int veri tipine dönüştürmüş olduk
 
